@@ -11,7 +11,7 @@ Este projeto foi criado para demonstrar os codigos referentes ao curso Vue.js 2 
 
 
 ---
-![Capturar](https://github.com/ILadyLuckI/vuejs-stock-trader-projeto/assets/69736274/7896b3a0-4e47-44dc-b1d0-38705ea6b743)
+![Capturar](https://github.com/ILadyLuckI/vuejs-stock-trader-projeto/assets/69736274/7896b3a0-4e47-44dc-b1d0-38705ea6b743#vitrinedev)
 
 
 ## Detalhes do projeto
